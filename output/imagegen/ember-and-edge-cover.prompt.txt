@@ -1,0 +1,19 @@
+Tool: built-in image_gen
+Asset: 炉火与锋刃 game cover
+
+Generation prompt:
+Use case: stylized-concept
+Asset type: polished landscape key art cover for the existing indie 3D blacksmith simulation game 《炉火与锋刃》.
+Primary request: Generate ONE finished, attractive game cover image, wide 16:9 composition, ideally 2560 x 1440. The game is about smelting ores, hammering swords, quenching them, selling them and collecting finished blades. Accurately reflect its charming low-poly 3D mountain workshop visual style.
+Scene/backdrop: a small open-sided medieval blacksmith workshop with pale warm plaster walls, chunky dark timber beams, muted olive stone paving, a stone furnace with a tall square chimney and a bright orange fire. A few faceted evergreen silhouettes and deep pine-green atmosphere behind the workshop. Keep the background simple and calm.
+Subject: foreground hero is a substantial steel anvil on a round wooden stump, with a glowing orange-red sword blank resting correctly across its top and a wood-handled forging hammer striking it, sending a beautiful controlled arc of small golden sparks upward. Clear sword silhouette and readable anvil silhouette. Behind it, show the stone furnace, one wooden quench bucket with subtle steam, a small workbench with several colored faceted ore chunks, and three finished swords on a wooden wall rack. Objects are arranged coherently as a working smithy, with no humans needed, consistent with the game.
+Style/medium: premium stylized low-poly 3D game key art with carefully designed faceted geometry, clean bevels, tactile wood and hammered metal, soft ambient occlusion and cinematic lighting. Make it feel like a beautifully art-directed version of the actual real-time low-poly game, with warm handmade charm. Not a photographic blacksmith scene or a gritty combat fantasy.
+Composition/framing: gently elevated three-quarter perspective, close enough for the blade and anvil to command attention, workshop fills the lower and middle frame; retain elegant uncluttered dark-green negative space across the upper portion for the title. Balanced visual hierarchy, readable when reduced to a store thumbnail. Important text and focal objects kept safely inside a generous outer margin.
+Lighting/mood: inviting warm furnace light and orange emissive sword steel contrasted with soft cool sage-green fill; cinematic volumetric glow, subtle floating embers, crisp forms, refined restrained bloom.
+Color palette: deep pine green, sage stone, warm walnut timber, steel silver, amber and orange gold. Warm ivory-gold lettering.
+Text (verbatim): large Chinese game title “炉火与锋刃”; smaller widely spaced English subtitle “EMBER & EDGE”. Render the Chinese title exactly, in elegant bold Chinese Song-style display lettering with subtle metallic gold texture, unmistakably legible and beautifully typeset. Place both in the uncluttered upper portion. No other text.
+Constraints: single coherent cover, fully opaque background. No UI, buttons, meters, screenshots, border, watermark, unrelated logo, humans, monsters, combat, blood, modern machinery, oversize fantasy weapons or excessive magical effects. Forge, sword, hammer, anvil and craftsmanship are the story.
+
+Final correction prompt:
+Use case: precise-object-edit.
+Edit the provided game cover with ONE targeted correction: correct the small English subtitle to read exactly "EMBER & EDGE". It currently looks like "EMBEP & EDGE"; the fifth letter must be an uppercase R with a clearly visible diagonal leg. Exact letters: E M B E R, then &, then E D G E. Preserve the existing gold serif typography, subtitle location, size, letter spacing and lighting. Preserve the large Chinese title "炉火与锋刃" exactly as it is. Keep every other part of the image unchanged, including the complete landscape composition, hammer, hot blade, sparks, anvil, furnace, ores, hanging swords, forest, mountains, colors, framing and style. Do not add anything. Opaque background.
